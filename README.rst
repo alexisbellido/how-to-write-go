@@ -1,7 +1,7 @@
 How To Write Go Code
 ==============================================
 
-Examples from `how to write go code`_.
+Examples from `how to write Go code`_.
 
 Notes
 -----------------------------------
@@ -43,6 +43,6 @@ If running on macOS Catalina 1.15.2.
   go install
   tour
 
-.. _how to write go code: https://golang.org/doc/code.html
+.. _how to write Go code: https://golang.org/doc/code.html
 .. _tour online: https://tour.golang.org
 
