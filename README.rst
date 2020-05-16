@@ -1,7 +1,7 @@
 How To Write Go Code
 ==============================================
 
-Examples from `how to write gocode`_.
+Examples from `how to write go code`_.
 
 Notes
 -----------------------------------
